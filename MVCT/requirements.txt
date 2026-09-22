@@ -1,0 +1,17 @@
+# Install the CUDA-enabled PyTorch wheel separately before this file.
+numpy==1.26.4
+pandas==2.2.2
+tqdm==4.66.4
+scikit-learn==1.4.2
+scipy==1.12.0
+matplotlib==3.8.4
+seaborn==0.13.2
+
+transformers==4.41.2
+sentence-transformers==2.7.0
+sentencepiece==0.2.0
+protobuf==4.25.3
+safetensors==0.4.3
+huggingface-hub>=0.23,<1.0
+pycorenlp==0.3.0
+requests==2.32.3
